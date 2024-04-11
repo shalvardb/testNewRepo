@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <categories>
-    <category name="default">
-    </category>
+  <category name="default">
+    <snippet>../contents/assets/snippets/test_snippet.hts</snippet>
+    <snippet>../contents/assets/snippets/test_two.hts</snippet>
+  </category>
 </categories>
