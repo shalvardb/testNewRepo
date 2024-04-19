@@ -4,4 +4,7 @@
     <snippet>../contents/assets/snippets/test_snippet.hts</snippet>
     <snippet>../contents/assets/snippets/test_two.hts</snippet>
   </category>
+  <category name="New group">
+    <snippet>../contents/assets/snippets/test_new_snippet.hts</snippet>
+  </category>
 </categories>
